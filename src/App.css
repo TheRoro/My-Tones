@@ -7,3 +7,29 @@ h1 {
     color: #91c09e;
     text-shadow: 2px 2px 1px #7d7769;
 }
+
+.playBtn{
+    height: 40px;
+    width: 40px;
+    background: #f45c54;
+    border-radius: 30px;
+}
+
+.muteBtn{
+    height: 40px;
+    width: 40px;
+    background: #8cac94;
+    border-radius: 30px;
+}
+
+
+.fas {
+    color: #3b3b3b;
+}
+
+.songCard {
+    background-color: #94c49c;
+    border-radius: 10px;
+    height: auto;
+    width: 70%;
+}
